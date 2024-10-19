@@ -39,3 +39,83 @@ Supposons que je conclue un contrat avec Dali, le ministre des Mines de la Répu
 Comment est-il possible qu'un contrat soit exécuté entre des parties qui n'ont pas participé à sa conclusion ? C'est tout le problème de la circulation du contrat, d'autant plus que nous insistons beaucoup sur la question de la volonté contractuelle. Ainsi, comme nous soulignons l'importance de la volonté au moment de la formation du contrat, cela a évidemment des effets sur la suite.
 
 Enfin, la troisième partie concerne l'extinction du contrat, ou sa terminaison. Comme toute chose, un contrat arrive nécessairement à son terme, soit parce que les parties en ont décidé ainsi, soit pour d'autres raisons spécifiques. Il est important de noter que, dans de nombreux cas, les litiges portent à la fois sur le contrôle de la bonne exécution du contrat et sur le respect des conditions d'extinction.
+
+## I. Sources des obligations
+
+### A. Deux sources principales des obligations
+
+#### 1. Le contrat
+
+Voici l'objet du cours de droit des contrats. Il est important de bien comprendre la matière, car il existe une distinction significative dans les ouvrages. Souvent, on trouve sur la couverture des termes comme "droit des obligations" ou "droit des contrats". Cette distinction reflète une conception continentale, notamment française, qui regroupe les rapports d'obligations entre deux personnes sous l'appellation "droit des obligations". Ce domaine examine ces rapports à travers un lien personnel, puis élargit l'étude pour analyser les sources de ces obligations. Parmi ces sources, deux principales sont le contrat et le délit.
+
+Avant la réforme de 2016, l'article 1101 du Code civil définissait le contrat comme une "convention" qui produisait des obligations de faire, de ne pas faire et de donner. C'était l'ancienne rédaction de cet article.
+
+> Version 1804 : Le contrat est une convention par laquelle une ou plusieurs personnes s'obligent, envers une ou plusieurs autres, à donner, à faire ou à ne pas faire quelque chose.
+>
+> Version 2016 : Le contrat est un accord de volontés entre deux ou plusieurs personnes destiné à créer, modifier, transmettre ou éteindre des obligations.
+
+À l'époque, le contrat était perçu comme un mécanisme générateur d'obligations, mais cette vision est incorrecte. En réalité, le contrat produit des effets, que l'on qualifie d'effets contractuels. Par exemple, le transfert de propriété, mentionné précédemment, est un effet automatique du contrat, sans qu'il ne s'agisse d'une obligation. Parmi ces effets, certains sont plus importants que d'autres, et c'est ce que l'on désigne sous le terme d'obligations.
+
+#### 2. La responsabilité civile
+
+L'autre mécanisme de production d'obligations est la responsabilité civile, plus précisément la responsabilité civile délictuelle. Ce sera le sujet du cours du second semestre, basé notamment sur l'article 1240 du Code civil :
+
+> Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.
+
+Ce texte est rempli de concepts standards qu'il faut bien comprendre. Qu'est-ce qu'un "fait" ? Qu'est-ce qu'un "dommage" ? Que signifie "obliger celui par lequel il est arrivé à le réparer" ?
+
+Si l'on prend cet article dans son ensemble, il implique qu'un dommage, causé par un fait (que l'on qualifie souvent de "faute" dans une conception de la responsabilité fondée sur la culpabilité), engendre l'application d'un régime de responsabilité. Il existe plusieurs régimes de responsabilité : la responsabilité pour faute, la responsabilité du fait des choses, la responsabilité du fait d'autrui, etc. Par exemple, en tant que parent, vous êtes automatiquement responsable des dommages causés par vos enfants, sans pouvoir vous en exonérer. Cette responsabilité est dite "de plein droit", établie par la jurisprudence en 1995.
+
+La responsabilité civile produit ainsi une obligation de réparation, c'est-à-dire que l'auteur du dommage est tenu de réparer le préjudice subi par la victime. Dire que la responsabilité civile crée des obligations peut sembler excessif, car cette obligation de réparer est le résultat final d'un processus, tandis que dans le cadre du contrat, l'obligation est initiale, dès la formation de celui-ci. Malgré cette distinction, le droit a considéré que ces deux mécanismes relèvent du même domaine, pour des raisons historiques, mais qui concernent essentiellement l'évolution du droit des contrats.
+
+### B. La perspective historique
+
+Dans l'histoire du droit des obligations, on distinguait autrefois quatre sources principales d'obligations.
+
+1. **Le contrat**, basé sur la volonté : une personne choisit de se soumettre à des obligations et d'en devenir créancière.
+
+2. **La faute**, autrefois appelée "délit civil", d'où provient le terme de "responsabilité délictuelle". Ici, l'obligation naît d'une faute commise.
+
+3. **Le quasi-délit**, qui implique l'absence de volonté de causer un dommage, comme dans la responsabilité du fait des choses ou la responsabilité des parents pour les actes de leurs enfants. Par exemple, des parents ne souhaitent certainement pas que leurs enfants causent un incendie chez le voisin, mais ils en sont responsables. C'est ce qu'on appelle un quasi-délit.
+
+4. **Le quasi-contrat**, où une personne agit dans l'intérêt d'une autre sans qu'un contrat ait été explicitement conclu. Prenons l'exemple suivant : Dali part en vacances et confie les clés de son appartement à sa voisine, Elena. Durant son absence, une fuite d'eau majeure se produit. Elena, inquiète, fait appel à un plombier pour des réparations d'urgence, pour un montant de 50 000 euros. À son retour, Dali, surpris, apprend ce qui s'est passé et reçoit la facture. Même s'il n'a rien demandé directement, on considère qu'il y a un quasi-contrat. Elena a agi dans l'intérêt de Dali comme si elle avait été mandatée, ce qui constitue un **quasi-contrat de gestion d'affaires**.
+
+Enfin, une cinquième source a été ajoutée : **la loi**, qui crée des obligations légales directement issues des textes juridiques.
+
+### C. À propos de la discipline
+
+On ne considère plus le contrat simplement comme un producteur d'obligations. Désormais, on isole l'obligation elle-même, un peu comme un généticien qui isole un élément spécifique. En général, cette obligation a une valeur ou un prix, et en fonction de cette valeur, il est possible de réaliser diverses opérations. Par exemple, si je vous dois 1000 euros dans un an, mais que vous devez 1000 euros immédiatement à Elena, sans avoir d'autres sources de revenus ou sans vouloir emprunter, il pourrait être judicieux de céder à Elena votre créance de 1000 euros sur moi. Ce faisant, votre dette envers Elena est éteinte, et Elena devient mon créancier. C'est désormais à elle que je devrai 1000 euros. Cette opération est distincte de la cession de contrat évoquée précédemment ; il s'agit ici d'une opération spécifique portant sur une obligation au sein du contrat. Comprendre le régime général des obligations permet d'accéder à des domaines connexes tels que le droit des sûretés, le droit bancaire, ou encore le droit des procédures collectives.
+
+Il existe une multitude d'opérations effectuées sur des obligations, qui relèvent principalement d'un "droit de l'argent". Cependant, ce que nous allons étudier, c'est plutôt un "droit de l'économie" : comment et pourquoi on conclut un contrat, et dans quelles conditions. Il est important de comprendre que dans des systèmes juridiques comme ceux des États-Unis ou de l'Angleterre, vous n'aurez jamais de cours intitulé *obligation law*. Cela n'a pas de sens pour eux. Vous aurez éventuellement un cours de *contract law*, et dans une autre année, avec des professeurs différents, un cours de *tort law*. Ces deux questions ne sont pas liées dans ces systèmes.
+
+En France, cependant, le lien entre droit des contrats et droit de la responsabilité est souvent établi, bien que cela puisse paraître artificiel pour certaines raisons que j'ai déjà évoquées. D'ailleurs, vous remarquerez que certains ouvrages plus récents se concentrent uniquement sur le droit des contrats ou uniquement sur le droit de la responsabilité, sans chercher à créer ce lien. Le droit de la responsabilité, comme le disait Carbonnier, est "le droit des drames, des larmes et des tragédies", tandis que le contrat n'a rien à voir avec cela.
+
+Cependant, vous verrez que, dans le cadre de la sanction de l'inexécution d'un contrat, on parle souvent de responsabilité contractuelle, et parfois même en termes proches de la responsabilité délictuelle. Vous serez sans doute amené à parler de "faute contractuelle", et je vous expliquerai pourquoi cette notion est débattue. Peut-on véritablement parler de "faute contractuelle" ? Ce débat anime les spécialistes du droit des contrats depuis environ 30 ans. Certains, comme moi, pensent que oui, d'autres non. Nous verrons pourquoi et comment cette question est abordée.
+
+## Ⅱ. Notion d’obligation
+
+### A. Obligation fondée sur un acte juridique
+
+### B. Obligation fondée sur un fait juridique
+
+### C. Obligation seulement fondée sur la loi
+
+## Ⅲ. Notion de contrat
+
+## Ⅳ. Classifications contractuelles
+
+### A. Distinction liées au formalisme de formation
+
+### B. Distinction fondée sur la réciprocité
+
+#### 1. Distinction des ctts onéreux et gratuits
+
+#### 2. Ctt synallagmatique / unilatéraux
+
+#### 3. Ctt commutatif / ctt aléatoire
+
+### C. Distinctions fondées sur la durée
+
+### D. Distinction fondée sur la négociabilité
+
+### E. Distinction Contrat-échange / Contrat-Alliance
